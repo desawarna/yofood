@@ -1,5 +1,5 @@
-# yofood
-## Adalah semacam project ReactJS menggunakan And Design https://mobile.ant.design/
+# YoFood
+## Adalah semacam project ReactJS menggunakan Ant Design https://mobile.ant.design/
 tampilan terinspirasi pakai tampilan GoFood
 
 Silahkan clone menggunakan terminal pastikan git sudah terinstall di komputer Anda , buka terminal 
